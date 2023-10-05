@@ -1,0 +1,41 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "apple min",
+      "thumbnail": "https://i.postimg.cc/G2cm1w3p/channels4-profile.jpg",
+      "url": "https://www.youtube.com/embed/uaSlyiFVhSw"
+    },
+    {
+      "id": 2,
+      "caption": "czjhbfbhb",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuxCP6S3YZg_gikStP82UeXKrEHi58j50HtQ&usqp=CAU",
+      "url": "https://www.youtube.com/embed/JdaQlDsrxKg"
+    }
+  ],
+  "category": [
+    {
+      "id": 8,
+      "categoryName": "education",
+      "allVideos": []
+    },
+    {
+      "id": 9,
+      "categoryName": "epsilone",
+      "allVideos": []
+    },
+    {
+      "id": 10,
+      "categoryName": "sadsadsad",
+      "allVideos": []
+    }
+  ],
+  "histories": [
+    {
+      "id": 5,
+      "cardName": "chinese cooking",
+      "url": "https://www.youtube.com/embed/JdaQlDsrxKg",
+      "date":"October "
+    }
+  ]
+}
